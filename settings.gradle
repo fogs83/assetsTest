@@ -1,0 +1,3 @@
+include ':app'
+include ':assetPack'
+rootProject.name = "assetsTest"
